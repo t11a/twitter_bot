@@ -1,7 +1,6 @@
 require 'open-uri'
 require 'rubygems'
 require 'nokogiri'
-require 'twitter'
 require 'logger'
 require 'oauth'
 
