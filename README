@@ -1,0 +1,12 @@
+1. get consumer key and secret.
+http://twitter.com/oauth_clients
+
+2. get access token and secret.
+
+run ****
+
+3. set consumer key & secret and access token & secret to twitter_bot.rb
+
+4 don't foreget create a log file!
+$mkdir log
+$touch log/twitter_bot.log
