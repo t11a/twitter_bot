@@ -3,7 +3,7 @@ http://twitter.com/oauth_clients
 
 2. get access token and secret.
 
-run ****
+ref:http://github.com/t11a/twitter_oauth_sample
 
 3. set consumer key & secret and access token & secret to twitter_bot.rb
 
